@@ -1,6 +1,6 @@
 # Expense Sharing Backend
 
-A backend REST API for an expense-sharing application (similar to Splitwise) that allows users to create groups, add shared expenses, split costs, and track balances between group members.
+A backend REST API for an expense-sharing application that allows users to create groups, add shared expenses, split costs, and track balances between group members.
 
 ---
 
