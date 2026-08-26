@@ -126,6 +126,8 @@ http://localhost:3000
 
 This project is open-source and available under the MIT License.
 
-##Author
+---
+## Author
+
 Abhishek Kumar
 
